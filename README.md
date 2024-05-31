@@ -11,5 +11,3 @@ This repository contains programming assignments and resources for the Computati
 ## Getting Started
 To use these projects, clone the repository and open the files in MATLAB. Each folder contains specific instructions and MATLAB scripts for running the projects.
 
-## Contributions and Feedback
-Feedback and contributions to the projects are welcome. Please read the contribution guidelines before making a pull request.
